@@ -1,0 +1,80 @@
+/*GENERAL*/
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 3px;
+}
+
+button{
+  margin: 30px 0;
+}
+
+/*HEADER*/
+.navbar-header, .navbar-nav{
+  font-family: 'PT Sans', sans-serif;
+}
+
+.navbar-default{
+  background-color: /*#e74c3c*/ #ff5252;
+  border: transparent;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover{
+  color: white;
+  background-color: #f63a3a;
+}
+
+.container>.navbar-header>a,
+.container>.navbar-right>ul>li>a{
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+}
+
+
+/*MAIN CONTENT*/
+.form-horizontal{
+  margin: 50px 0;
+}
+
+.bg-form{
+  border: solid 7px rgba(231, 76, 60, 0.81);
+  padding: 50px;
+}
+
+.bg-result{
+  margin-top: 30px;
+  border: solid 7px rgba(46, 204, 113, 0.77);
+  padding: 50px;
+}
+
+.bg-cara-penggunaan{
+  margin-bottom: 70px;
+}
+
+/*BUTTON*/
+.btn-success{
+  padding: 10px 30px;
+  background-color: #2ecc71;
+  font-family: 'PT Sans', sans-serif;
+  color: white;
+  font-size: 18px;
+}
+
+.btn-success:hover{
+  background-color: #27ae60;
+}
+
+/*FOOTER*/
+.bg-footer{
+  background-color: #2f2f2f;
+  padding: 50px 0;
+  color: white;
+  font-size: 20px;
+}
