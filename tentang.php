@@ -9,7 +9,7 @@
         <!--BEGIN MAIN CONTENT-->
         <div class="col-md-offset-4 col-md-4 bg-cara-penggunaan">
           <h1 class="text-center">KRIPTOGRAFI PEMAMPATAN</h1><br>
-          <h3 class="text-center">Cara Penggunaan</h3><br>
+          <h3 class="text-center">Tentang</h3><br>
           <!--BEGIN CARA PENGGUNAAN-->
           <p class="text-justify">
             Teknik kriptografi pemampatan merupakan teknik kriptografi dengan cara menghilangkan
