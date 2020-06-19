@@ -2,7 +2,7 @@
 <footer>
   <div class="container-fluid bg-footer">
     <div class="container">
-      <p class="text-center">&copy;Kelompok 9 - 4KA01 - PTA 2017/2018</p>
+      <p class="text-center">&copy;Nando Putra Pratama - 2017</p>
     </div>
   </div>
 </footer>
